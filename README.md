@@ -1,4 +1,4 @@
-# baklink
+# backlink
 
 1. Open index.html file in this repository
 2. Copy the text (entire html code)
